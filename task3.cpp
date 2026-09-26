@@ -262,7 +262,7 @@ int main()
         }
 
     }
-    while (choice != 7);
+    while (choice != 6);
 
     return 0;
 }
